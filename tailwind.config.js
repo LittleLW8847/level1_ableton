@@ -5,9 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-      Flex:{
-        '1/10': 10%rem,
-      }
+      /*Flex:{
+        'basis-1/10': 10% width,
+      }*/
     },
   },
   plugins: [],
