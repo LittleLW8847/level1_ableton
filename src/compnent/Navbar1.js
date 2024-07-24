@@ -11,16 +11,16 @@ export default function Navbar1(){
 
             
             <ul class="container flex flex-row pl-14 pr-1"> 
-                <li class = "basis-12">Live</li>
-                <li class = "basis-12">Push</li>
-                <li class = "basis-12">Note</li>
-                <li class = "basis-12">Link</li>
-                <li class = "basis-12">Shop</li>
-                <li class = "basis-12">Packs</li>
-                <li class = "basis-12">Help</li>
-                <li class = "basis-12">More +</li>
+                <li class = "basis-1/12">Live</li>
+                <li class = "basis-1/12">Push</li>
+                <li class = "basis-1/12">Note</li>
+                <li class = "basis-1/12">Link</li>
+                <li class = "basis-1/12">Shop</li>
+                <li class = "basis-1/12">Packs</li>
+                <li class = "basis-1/12">Help</li>
+                <li class = "basis-1/12">More +</li>
                 <li class = "basis-1/3 text-right">Try Live 12 for free</li>
-                <li class = "basis-96">Log in or Register</li>
+                <li class = "basis-">Log in or Register</li>
             </ul>
         </nav>
         
