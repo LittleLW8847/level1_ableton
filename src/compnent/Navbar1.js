@@ -20,7 +20,7 @@ export default function Navbar1(){
                 <li class = "basis-14">Help</li>
                 <li class = "basis-14">More +</li>
                 <li class = "basis-1/3 text-right">Try Live 12 for free</li>
-                <li class = "basis-44 text-center">Log in or Register</li>
+                <li class = "basis-1/4 text-center">Log in or Register</li>
             </ul>
         </nav>
         
