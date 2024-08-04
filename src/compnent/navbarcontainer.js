@@ -4,7 +4,6 @@ export default function navbarContainer(){
     return(
         <div>
             <Navbar1/>
-            <div class="">here's the line</div>
             <Navbar2/>
         </div>
     );

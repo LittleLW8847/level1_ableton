@@ -6,7 +6,8 @@ import navbarContainer from './compnent/navbarcontainer';
 function App() {
   return (
     <div>
-      <navbarContainer/>
+      <Navbar1/>
+      <Navbar2/>
     </div>
     
   );
