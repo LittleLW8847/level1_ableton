@@ -20,12 +20,11 @@ export default function Navbar1(){
             </span>
             
 
-            <span class="ml-auto justify-normal w-auto">
-            <ul class="flex flex-row ">
+            <ul class="container flex flex-row ml-auto mr-20 w-1/4 justify-evenly">
                 <li class = "basis-auto">Try Live 12 for free</li>
                 <li class = "basis-auto">Log in or Register</li>
             </ul>
-            </span>
+
             
         </nav>
         
