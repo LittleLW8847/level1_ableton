@@ -18,7 +18,7 @@ export default function Navbar1(){
                 <li class="basis-auto">More +</li>
                 </ul>
 
-                <button class="hidden sm:block">Menu</button>
+                <button class="sm:hidden block">Menu</button>
             </span>
             
 
