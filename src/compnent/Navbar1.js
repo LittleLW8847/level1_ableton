@@ -7,7 +7,7 @@ export default function Navbar1(){
                     </path>
                 </svg>
 
-                <ul class="sm:container sm:flex sm:flex-row sm:pl-5 sm:pr-1 sm:justify-evenl hidden"> 
+                <ul class="sm:container sm:flex sm:flex-row sm:pl-5 sm:pr-1 sm:justify-evenly hidden"> 
                 <li class="basis-auto">Live</li>
                 <li class="basis-auto">Push</li>
                 <li class="basis-auto">Note</li>
@@ -22,7 +22,7 @@ export default function Navbar1(){
             </span>
             
 
-            <ul class="sm:container sm:flex sm:flex-row sm:ml-auto sm:mr-5 sm:w-1/4 sm:justify-evenly hidden">
+            <ul class="sm:container sm:flex sm:flex-row sm:ml-auto sm:mr-5 sm:w-1/4 justify-evenly">
                 <li class = "basis-auto">Try Live 12 for free</li>
                 <li class = "basis-auto">Log in or Register</li>
             </ul>
