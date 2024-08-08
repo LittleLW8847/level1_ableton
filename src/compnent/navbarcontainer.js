@@ -6,7 +6,6 @@ export default function navbarContainer(){
         <div>
             <Navbar1/>
             <Navbar2/>
-            <Header/>
         </div>
     );
 }
