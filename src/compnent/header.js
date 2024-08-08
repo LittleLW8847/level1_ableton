@@ -1,4 +1,4 @@
-export default function header(){
+export default function Header(){
     return(
         <header class="w-fit">
             <img src="../../resource/header.avif"></img>
