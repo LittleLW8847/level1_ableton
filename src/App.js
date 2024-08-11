@@ -6,7 +6,7 @@ import navbarContainer from './compnent/navbarcontainer';
 import Header from './compnent/header';
 function App() {
   return (
-    <div>
+    <div class="ml-44">
       <Navbar1/>
       <Navbar2/>
       <Header/>
